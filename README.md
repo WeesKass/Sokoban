@@ -1,6 +1,8 @@
 # Sokoban
 Sokoban game (Pacman Theme)
+
 Project Proposal: https://docs.google.com/document/d/1eyy7db9P98xubsREMJhf_5a3N34jLeF4XBunXLhl4Ho/edit?usp=sharing
+
 Wiki: https://github.com/WeesKass/Sokoban/wiki
 
 ## Background
